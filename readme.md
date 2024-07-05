@@ -19,9 +19,9 @@ Aplikasi ini adalah contoh implementasi untuk mengambil data universitas dari se
    ```bash
    python app.py
 3. Aplikasi akan melakukan hal berikut:
-    Mengambil data universitas dari API yang disediakan.
-    Membuat DataFrame menggunakan Pandas dan mengisi dengan data universitas.
-    Memfilter data berdasarkan kolom 'state-province'.
-    Menampilkan hasil filter ke layar.
-    Menyimpan data yang sudah difilter ke dalam file CSV universities_united_states_filtered.csv.
+    * Mengambil data universitas dari API yang disediakan.
+    * Membuat DataFrame menggunakan Pandas dan mengisi dengan data universitas.
+    * Memfilter data berdasarkan kolom 'state-province'.
+    * Menampilkan hasil filter ke layar.
+    * Menyimpan data yang sudah difilter ke dalam file CSV universities_united_states_filtered.csv.
 4. Anda dapat membuka file CSV tersebut untuk melihat hasil filter data universitas.
